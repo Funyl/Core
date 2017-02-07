@@ -1,0 +1,23 @@
+{
+  "name": "funnyl",
+  "version": "1.0.0",
+  "description": "lol ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinit-shah/Funnyl.git"
+  },
+  "author": "Vinit Shah, Sam Haves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinit-shah/Funnyl/issues"
+  },
+  "homepage": "https://github.com/vinit-shah/Funnyl#readme",
+  "devDependencies": {
+    "express": "^4.14.1",
+    "gulp": "^3.9.1"
+  }
+}
