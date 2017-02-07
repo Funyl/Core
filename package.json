@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vinit-shah/Funnyl.git"
+    "url": "git+https://github.com/Funyl/Core.git"
   },
   "author": "Vinit Shah, Sam Haves",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vinit-shah/Funnyl/issues"
+    "url": "https://github.com/Funyl/Core/issues"
   },
-  "homepage": "https://github.com/vinit-shah/Funnyl#readme",
+  "homepage": "https://github.com/Funyl/Core#readme",
   "devDependencies": {
     "express": "^4.14.1",
     "gulp": "^3.9.1"
