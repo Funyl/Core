@@ -4,6 +4,8 @@
   "description": "lol ",
   "main": "index.js",
   "scripts": {
+    "postinstall": "bower install && grunt build",
+    "start": "node funyl.js", 
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
