@@ -1,1 +1,1 @@
-# Funnyl
+# Funyl
